@@ -1,5 +1,4 @@
 # CICD Java Project
-#####GIT-MAVEN-CHECKSTYLE-SONAR-DOCKER-HELM-KUBERNETES-SLACK
 ![Static Badge](https://img.shields.io/badge/jenkins-8A2BE2) ![Static Badge](https://img.shields.io/badge/Docker-0000) ![Static Badge](https://img.shields.io/badge/Sonarqube-%23CCBB2E)![Static Badge](https://img.shields.io/badge/Kubernetes-%232E71CC)![Static Badge](https://img.shields.io/badge/Maven-%23CC352E%20) ![Static Badge](https://img.shields.io/badge/Checkstyle-%23%23CC2EAF)![Static Badge](https://img.shields.io/badge/Helm-%232E38CC)![Static Badge](https://img.shields.io/badge/Slack-%23CC502E)
 
 
@@ -10,13 +9,14 @@
 
 
 
-**Table of Contents**
 
-[TOCM]
+## Table of Contents
 
-[TOC]
-
-
+- [Project Description](#project-description)
+- [Installation and Usage](#installation-and-usage)
+- [Key Learnings](#key-learnings)
+- [Code Information](#code-information)
+- [Contribution and License](#contribution-and-license)
 
 
 ## Project Description
