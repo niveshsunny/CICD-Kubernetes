@@ -70,7 +70,7 @@ The Vprofile Application is a Java-based platform designed to streamline user au
    - Set up the KOPS server as a Jenkins slave node to execute Helm commands during the deployment process.
 
 ### Configure Jenkins Pipeline:
-
+![Clone Repository](https://i.imgur.com/uNg8Ucs.png)
 1. **Create a Jenkins Pipeline Using the Provided Jenkinsfile:**
    - Define a Jenkins Pipeline script in the Jenkinsfile located in the root directory of your project repository. This Pipeline script will define the stages and steps of your CI/CD process.
 
