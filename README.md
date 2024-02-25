@@ -1,5 +1,5 @@
 # CICD Java Project
-![Static Badge](https://img.shields.io/badge/jenkins-8A2BE2) ![Static Badge](https://img.shields.io/badge/Docker-0000) ![Static Badge](https://img.shields.io/badge/Sonarqube-%23CCBB2E)![Static Badge](https://img.shields.io/badge/Kubernetes-%232E71CC)![Static Badge](https://img.shields.io/badge/Maven-%23CC352E%20) ![Static Badge](https://img.shields.io/badge/Checkstyle-%23%23CC2EAF)![Static Badge](https://img.shields.io/badge/Helm-%232E38CC)![Static Badge](https://img.shields.io/badge/Slack-%23CC502E)
+![Static Badge](https://img.shields.io/badge/jenkins-8A2BE2) ![Static Badge](https://img.shields.io/badge/Docker-0000) ![Static Badge](https://img.shields.io/badge/Sonarqube-%23CCBB2E) ![Static Badge](https://img.shields.io/badge/Kubernetes-%232E71CC) ![Static Badge](https://img.shields.io/badge/Maven-%23CC352E%20) ![Static Badge](https://img.shields.io/badge/Checkstyle-%23%23CC2EAF) ![Static Badge](https://img.shields.io/badge/Helm-%232E38CC) ![Static Badge](https://img.shields.io/badge/Slack-%23CC502E) ![Static Badge](https://img.shields.io/badge/Prometheus-%23CCBB2E) ![Static Badge](https://img.shields.io/badge/Grafana-%23CC502E)
 
 
 
@@ -113,6 +113,7 @@ The Vprofile Application is a Java-based platform designed to streamline user au
 * **Helm**: Package manager for Kubernetes applications.
 * **SonarQube**: Code quality management platform for static code analysis.
 * **Jenkins**: Automation server for CI/CD pipelines.
+* **Grafana & Promethus**: Monitering.
 
 
 
