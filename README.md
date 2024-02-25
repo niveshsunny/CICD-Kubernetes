@@ -138,7 +138,7 @@ The Vprofile Application is a Java-based platform designed to streamline user au
 
 
 
-![Clone Repository]((https://i.imgur.com/gFCLe8j.png)
+![Clone Repository](https://i.imgur.com/gFCLe8j.png)
 
 ## Contribution
 
