@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vproapp
-        image: niveshsunny/vproapp:replaceImageTag
+        image: niveshsunny/vproapp:13
         ports:
         - name: vproapp-port
           containerPort: 8080
