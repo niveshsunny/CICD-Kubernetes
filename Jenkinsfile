@@ -96,7 +96,7 @@ pipeline {
 		    cd template/
                     sed -i "s/Imagetag/${BUILD_NUMBER}/g" vproappdeb.yml
 		    cp -f vproappdeb.yml ../helm/vprofilecharts/templates/vproappdeb.yml
-		    sed -i "s/${BUILD_NUMBER}/{Imagetag}/g" vproappdeb.yml
+		    sed -i "s/${BUILD_NUMBER}/Imagetag/g" vproappdeb.yml
                     git add .
                     git commit -m "Update deployment image to version ${BUILD_NUMBER}"
                     git push https://${GITHUB_TOKEN}@github.com/${GIT_USER_NAME}/${GIT_REPO_NAME} HEAD:main
